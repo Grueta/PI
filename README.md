@@ -1,2 +1,0 @@
-# PI
-PI LINE SELF BOT
