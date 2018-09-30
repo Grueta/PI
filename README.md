@@ -6,7 +6,7 @@
  
 3. `apt update && apt upgrade -y && apt install python -y && apt install git -y`
  
-4. `git clone https://github.com/Grueta/PI`
+4. `git clone https://github.com/Grueta/PI.git`
  
 5. `cd pi && python -m pip install -r pip.txt && python3 pi.py`
  
@@ -16,3 +16,7 @@
 `cd /sdcard/pi && python3 pi.py`
 
 Credit :`https://github.com/NIGHTBATv1/55555`
+ 
+มาร่วมแบ่งปันความรู้หรือสอบถามกันได้ที่สแควร์
+
+https://line.me/ti/g2/OXNFJ5K4P9
